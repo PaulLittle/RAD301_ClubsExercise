@@ -1,0 +1,3 @@
+﻿update-database -ConfigurationTypeName S00156762Week6.Migration.AutenticationMigrations.Configuration
+
+update-database -ConfigurationTypeName S00156762Week6.Migration.ClubsMigrations.Configuration
